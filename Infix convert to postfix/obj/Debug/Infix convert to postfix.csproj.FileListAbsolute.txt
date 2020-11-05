@@ -1,0 +1,7 @@
+C:\Users\Ahmet\Desktop\Infix convert to postfix\Infix convert to postfix\bin\Debug\Infix convert to postfix.exe.config
+C:\Users\Ahmet\Desktop\Infix convert to postfix\Infix convert to postfix\bin\Debug\Infix convert to postfix.exe
+C:\Users\Ahmet\Desktop\Infix convert to postfix\Infix convert to postfix\bin\Debug\Infix convert to postfix.pdb
+C:\Users\Ahmet\Desktop\Infix convert to postfix\Infix convert to postfix\obj\Debug\Infix convert to postfix.csprojAssemblyReference.cache
+C:\Users\Ahmet\Desktop\Infix convert to postfix\Infix convert to postfix\obj\Debug\Infix convert to postfix.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet\Desktop\Infix convert to postfix\Infix convert to postfix\obj\Debug\Infix convert to postfix.exe
+C:\Users\Ahmet\Desktop\Infix convert to postfix\Infix convert to postfix\obj\Debug\Infix convert to postfix.pdb
